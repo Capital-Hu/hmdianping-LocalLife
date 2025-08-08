@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### RocketMQ ###
+rocketmq-all-*-bin-release/
+rocketmq-all-*-bin-release.zip
